@@ -1,0 +1,5 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
+</keymap>

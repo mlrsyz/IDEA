@@ -1,0 +1,18 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Failed to execute goal org.springframework.boot:spring-boot-maven-plugin:2.1.18.RELEASE:repackage (repackage) on project clever-security-example: Execution repackage of goal org.springframework.boot:spring-boot-maven-plugin:2.1.18.RELEASE:repackage failed: Unable to find main class" />
+      <item value="The last packet successfully received from the server was 24,215 milliseconds ago. The last packet sent successfully to the server was 24,230 milliseconds ago." />
+      <item value="Paragraph" />
+      <item value="Image image = Image.getInstance(new URL(&quot;http:img.netbian.comfile202102239cd8d4e74ce0b78253dc4dcc16995cb5.jpg&quot;)); image.setAlignment(Image.MIDDLE); image.scalePercent(40); image.setRotation((float) (Math.PI 2));" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1615340132882" />
+  </component>
+</application>
