@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="详情" />
       <item value="Error resolving template [styWork_typequery], template might not exist or might not be accessible by any of the configured Template Resolvers" />
       <item value="Failed to execute goal org.springframework.boot:spring-boot-maven-plugin:2.1.18.RELEASE:repackage (repackage) on project clever-security-example: Execution repackage of goal org.springframework.boot:spring-boot-maven-plugin:2.1.18.RELEASE:repackage failed: Unable to find main class" />
       <item value="The last packet successfully received from the server was 24,215 milliseconds ago. The last packet sent successfully to the server was 24,230 milliseconds ago." />
@@ -9,7 +10,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
+        <entry key="CHINESE" value="2" />
         <entry key="ENGLISH" value="2" />
       </map>
     </option>
