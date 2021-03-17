@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FileOutputStream stream = new FileOutputStream(file);" />
       <item value="详情" />
       <item value="Error resolving template [styWork_typequery], template might not exist or might not be accessible by any of the configured Template Resolvers" />
       <item value="Failed to execute goal org.springframework.boot:spring-boot-maven-plugin:2.1.18.RELEASE:repackage (repackage) on project clever-security-example: Execution repackage of goal org.springframework.boot:spring-boot-maven-plugin:2.1.18.RELEASE:repackage failed: Unable to find main class" />
@@ -16,6 +17,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615340132882" />
+    <option name="lastTrimTime" value="1615965406745" />
   </component>
 </application>
