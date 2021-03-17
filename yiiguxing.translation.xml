@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reads up to &lt;code&gt;b.length&lt;code&gt; bytes of data from this input stream into an array of bytes. This method blocks until some input is available. @param b the buffer into which the data is read. @return the total number of bytes read into the buffer, or &lt;code&gt;-1&lt;code&gt; if there is no more data because the end of the file has been reached. @exception IOException if an IO error occurs." />
       <item value="FileOutputStream stream = new FileOutputStream(file);" />
       <item value="详情" />
       <item value="Error resolving template [styWork_typequery], template might not exist or might not be accessible by any of the configured Template Resolvers" />
@@ -12,7 +13,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
