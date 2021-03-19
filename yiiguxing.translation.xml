@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Constructors" />
       <item value="Reference" />
       <item value="Reads up to &lt;code&gt;b.length&lt;code&gt; bytes of data from this input stream into an array of bytes. This method blocks until some input is available. @param b the buffer into which the data is read. @return the total number of bytes read into the buffer, or &lt;code&gt;-1&lt;code&gt; if there is no more data because the end of the file has been reached. @exception IOException if an IO error occurs." />
       <item value="FileOutputStream stream = new FileOutputStream(file);" />
@@ -13,8 +14,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
