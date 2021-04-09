@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You can open a dialog to select the ones you need to restore." />
+      <item value="The IDE modules below were removed by the Gradle project reload: spring-framework" />
+      <item value="Reduce the indexing time and CPU load with pre-built Maven library shared indexes" />
       <item value="identifier" />
       <item value="distinct" />
       <item value="Consumer" />
@@ -19,8 +22,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
