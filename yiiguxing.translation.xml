@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Load bean definitions into the given bean factory, typically through delegating to one or more bean definition readers." />
+      <item value="Environment" />
       <item value="instrument" />
       <item value="optional" />
       <item value="compile" />
@@ -52,13 +54,11 @@
       <item value="Treated specially by GC" />
       <item value="Constructors" />
       <item value="Reference" />
-      <item value="Reads up to &lt;code&gt;b.length&lt;code&gt; bytes of data from this input stream into an array of bytes. This method blocks until some input is available. @param b the buffer into which the data is read. @return the total number of bytes read into the buffer, or &lt;code&gt;-1&lt;code&gt; if there is no more data because the end of the file has been reached. @exception IOException if an IO error occurs." />
-      <item value="FileOutputStream stream = new FileOutputStream(file);" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="50" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
