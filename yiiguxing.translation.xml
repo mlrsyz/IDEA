@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Configurable Listable Bean Factory" />
+      <item value="spring.context.refresh" />
+      <item value="obtain Fresh Bean Factory" />
       <item value="Load bean definitions into the given bean factory, typically through delegating to one or more bean definition readers." />
       <item value="Environment" />
       <item value="instrument" />
@@ -51,14 +54,11 @@
       <item value="distinct" />
       <item value="Consumer" />
       <item value="Returns a stream consisting of the results of applying the given function to the elements of this stream." />
-      <item value="Treated specially by GC" />
-      <item value="Constructors" />
-      <item value="Reference" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="53" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
