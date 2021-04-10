@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="containers and 3 tests were Method or class mismatch" />
+      <item value="ע: ĳЩ�����ļ�ʹ�û����ѹ�ʱ�� API�� ע: �й���ϸ��Ϣ, ��ʹ�� -Xlint:deprecation ���±��롣" />
+      <item value="Class {@code Object} is the root of the class hierarchy. Every class has {@code Object} as a superclass. All objects, including arrays, implement the methods of this class." />
       <item value="cannot be opened because it does not exist" />
       <item value="get System Class Loader" />
       <item value="no occurrence -&gt; can return input as-is" />
@@ -51,15 +54,13 @@
       <item value="Return the (raw) singleton object registered under the given name. &lt;p&gt;Checks already instantiated singletons and also allows for an early reference to a currently created singleton (resolving a circular reference)." />
       <item value="Cache of singleton factories: bean name to ObjectFactory" />
       <item value="whether early references should be created or not" />
-      <item value="Cache of early singleton objects: bean name to bean instance" />
-      <item value="early" />
-      <item value="Return the singleton mutex used by this registry (for external collaborators)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="79" />
         <entry key="FRENCH" value="1" />
+        <entry key="HEBREW" value="1" />
       </map>
     </option>
   </component>
@@ -72,6 +73,5 @@
         <option name="appId" value="20210111000668505" />
       </app-key>
     </option>
-    <option name="translator" value="BAIDU" />
   </component>
 </application>
