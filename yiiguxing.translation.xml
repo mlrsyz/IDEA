@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="instrument" />
+      <item value="optional" />
+      <item value="compile" />
       <item value="Expecting value to be true but was false" />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
       <item value="Wiring Info" />
@@ -51,14 +54,11 @@
       <item value="Reference" />
       <item value="Reads up to &lt;code&gt;b.length&lt;code&gt; bytes of data from this input stream into an array of bytes. This method blocks until some input is available. @param b the buffer into which the data is read. @return the total number of bytes read into the buffer, or &lt;code&gt;-1&lt;code&gt; if there is no more data because the end of the file has been reached. @exception IOException if an IO error occurs." />
       <item value="FileOutputStream stream = new FileOutputStream(file);" />
-      <item value="详情" />
-      <item value="Error resolving template [styWork_typequery], template might not exist or might not be accessible by any of the configured Template Resolvers" />
-      <item value="Failed to execute goal org.springframework.boot:spring-boot-maven-plugin:2.1.18.RELEASE:repackage (repackage) on project clever-security-example: Execution repackage of goal org.springframework.boot:spring-boot-maven-plugin:2.1.18.RELEASE:repackage failed: Unable to find main class" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="48" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
