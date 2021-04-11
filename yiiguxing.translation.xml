@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="get Entity Resolver" />
+      <item value="Specify the {@link NamespaceHandlerResolver} to use. &lt;p&gt;If none is specified, a default instance will be created through {@link createDefaultNamespaceHandlerResolver()}." />
+      <item value="Set the validation mode to use. Defaults to {@link VALIDATION_AUTO}. &lt;p&gt;Note that this only activates or deactivates validation itself. If you are switching validation off for schema files, you might need to activate schema namespace support explicitly: see {@link setNamespaceAware}." />
+      <item value="Actually load bean definitions from the specified XML file." />
+      <item value="XML bean definition resources currently being loaded" />
+      <item value="IOException parsing XML document from" />
+      <item value="input Source" />
+      <item value="check your import definitions" />
       <item value="Bean Name Aware" />
       <item value="ignore Dependency Interface" />
       <item value="cannot be opened because it does not exist" />
@@ -46,19 +54,11 @@
       <item value="test Resolve Wiring Info With An Instance Of A Non Annotated Class" />
       <item value="Bean Definition Defaults" />
       <item value="Annotation" />
-      <item value="A simple descriptor for an injection point, pointing to a methodconstructor parameter or a field. Exposed by {@link UnsatisfiedDependencyException}. Also available as an argument for factory methods, reacting to the requesting injection point for building a customized bean instance." />
-      <item value="The core package implementing Spring's lightweight Inversion of Control (IoC) container. &lt;p&gt;Provides an alternative to the Singleton and Prototype design patterns, including a consistent approach to configuration management. Builds on the org.springframework.beans package." />
-      <item value="Interface to be implemented by beans that need to react once all their properties have been set by a {@link BeanFactory}: e.g. to perform custom initialization, or merely to check that all mandatory properties have been set. &lt;p&gt;An alternative to implementing {@code InitializingBean} is specifying a custom init method, for example in an XML bean definition. For a list of all bean lifecycle methods, see the {@link BeanFactory BeanFactory javadocs}." />
-      <item value="Invoked by the containing {@code BeanFactory} after it has set all bean properties and satisfied {@link BeanFactoryAware}, {@code ApplicationContextAware} etc. &lt;p&gt;This method allows the bean instance to perform validation of its overall configuration and final initialization when all bean properties have been set." />
-      <item value="Invoked by the containing {@code BeanFactory} after it has set all bean properties and satisfied {@link BeanFactoryAware}, {@code ApplicationContextAware} etc. &lt;p&gt;This method allows the bean instance to perform validation of its overall configuration and final initialization when all bean properties have been set. @throws Exception in the event of misconfiguration (such as failure to set an essential property) or if initialization fails for any other reason" />
-      <item value="Invoked by the containing {@code BeanFactory} after it has set all bean properties and satisfied {@link BeanFactoryAware}, {@code ApplicationContextAware} etc. &lt;p&gt;This method allows the bean instance to perform validation of its overall configuration and final initialization when all bean properties have been set. @throws Exception in the event of misconfiguration (such as failure to set an essential property) or if initialization fails for any other re" />
-      <item value="Cache from name with factory bean prefix to stripped name without dereference." />
-      <item value="Perform an actual JNDI lookup for the given name via the JndiTemplate. &lt;p&gt;If the name doesn't begin with &quot;java:compenv&quot;, this prefix is added if &quot;resourceRef&quot; is set to &quot;true&quot;." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="88" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="96" />
+        <entry key="ENGLISH" value="98" />
         <entry key="FRENCH" value="1" />
         <entry key="HEBREW" value="1" />
       </map>
