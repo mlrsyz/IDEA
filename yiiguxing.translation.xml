@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Bean Name Aware" />
+      <item value="ignore Dependency Interface" />
       <item value="cannot be opened because it does not exist" />
       <item value="Detector" />
       <item value="Only conditional converters may return null convertible types" />
@@ -52,13 +54,11 @@
       <item value="Invoked by the containing {@code BeanFactory} after it has set all bean properties and satisfied {@link BeanFactoryAware}, {@code ApplicationContextAware} etc. &lt;p&gt;This method allows the bean instance to perform validation of its overall configuration and final initialization when all bean properties have been set. @throws Exception in the event of misconfiguration (such as failure to set an essential property) or if initialization fails for any other re" />
       <item value="Cache from name with factory bean prefix to stripped name without dereference." />
       <item value="Perform an actual JNDI lookup for the given name via the JndiTemplate. &lt;p&gt;If the name doesn't begin with &quot;java:compenv&quot;, this prefix is added if &quot;resourceRef&quot; is set to &quot;true&quot;." />
-      <item value="jndi Name" />
-      <item value="whether the instance is obtained for a type check," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="CHINESE" value="88" />
+        <entry key="ENGLISH" value="90" />
         <entry key="FRENCH" value="1" />
         <entry key="HEBREW" value="1" />
       </map>
