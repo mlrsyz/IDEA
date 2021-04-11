@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Detector" />
       <item value="Only conditional converters may return null convertible types" />
       <item value="Pointcut" />
       <item value="entry Trace" />
@@ -53,12 +54,11 @@
       <item value="Perform an actual JNDI lookup for the given name via the JndiTemplate. &lt;p&gt;If the name doesn't begin with &quot;java:compenv&quot;, this prefix is added if &quot;resourceRef&quot; is set to &quot;true&quot;." />
       <item value="jndi Name" />
       <item value="whether the instance is obtained for a type check," />
-      <item value="Determine the original bean name, resolving locally defined aliases to canonical names." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="84" />
+        <entry key="ENGLISH" value="86" />
         <entry key="FRENCH" value="1" />
         <entry key="HEBREW" value="1" />
       </map>
