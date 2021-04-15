@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="A constant holding the maximum value an {@code int} can have, 2&lt;sup&gt;31&lt;sup&gt;-1." />
+      <item value="Linked Blocking Queue" />
+      <item value="new Fixed Thread Pool" />
       <item value="Allow the XML to be extensible by processing any custom element types first, before we start to process the bean definitions. This method is a natural extension point for any other custom pre-processing of the XML. &lt;p&gt;The default implementation is empty. Subclasses can override this method to convert custom elements into standard Spring bean definitions, for example. Implementors have access to the parser's bean definition reader and the underlying XML resource, through the corresponding accessors." />
       <item value="Register each bean definition within the given root {@code &lt;beans&gt;} element." />
       <item value="This implementation parses bean definitions according to the &quot;spring-beans&quot; XSD" />
@@ -51,9 +54,6 @@
       <item value="Bean Wiring Info" />
       <item value="Must not be returning null for an @Configurable class instance even when autowiring is NO" />
       <item value="Wireless Soap" />
-      <item value="Named Wireless Soap" />
-      <item value="A build scan was not published as you have not authenticated with server 'ge.spring.io'." />
-      <item value="&gt; Task :buildSrc:compileJava UP-TO-DATE &gt; Task :buildSrc:compileGroovy NO-SOURCE &gt; Task :buildSrc:pluginDescriptors UP-TO-DATE &gt; Task :buildSrc:processResources UP-TO-DATE &gt; Task :buildSrc:classes UP-TO-DATE &gt; Task :buildSrc:jar UP-TO-DATE &gt; Task :buildSrc:assemble UP-TO-DATE &gt; Task :buildSrc:pluginUnderTestMetadata UP-TO-DATE &gt; Task :buildSrc:compileTestJava NO-SOURCE &gt; Task :buildSrc:compileTestGroovy NO-SOURCE &gt; Task :buildSrc:processTestResources NO-SOURCE &gt; Task :buildSrc:testClasses UP-TO-DATE &gt; Task :buildSrc:test NO-SOURCE &gt; Task :buildSrc:validatePlugins UP-TO-DATE &gt; Task :buildSrc:check UP-TO-DATE &gt; Task :buildSrc:build UP-TO-DATE &gt; Task :spring-beans:processResources UP-TO-DATE &gt; Task :spring-beans:processTestFixturesResources NO-SOURCE &gt; Task :spring-core:cglibRepackJar UP-TO-DATE &gt; Task :spring-core:objenesisRepackJar UP-TO-DATE &gt; Task :spring-core:processResources UP-TO-DATE &gt; Task :spring-beans:processTestResources UP-TO-DATE &gt; Task :spring-core:processTestFixturesResources NO-SOURCE &gt; Task :kotlin-coroutines:compileKotlin UP-TO-DATE &gt; Task :kotlin-coroutines:compileJava NO-SOURCE &gt; Task :kotlin-coroutines:processResources NO-SOURCE &gt; Task :kotlin-coroutines:classes UP-TO-DATE &gt; Task :spring-jcl:compileJava UP-TO-DATE &gt; Task :kotlin-coroutines:inspectClassesForKotlinIC UP-TO-DATE &gt; Task :spring-jcl:processResources UP-TO-DATE &gt; Task :spring-jcl:classes UP-TO-DATE &gt; Task :kotlin-coroutines:jar UP-TO-DATE &gt; Task :spring-jcl:jar UP-TO-DATE &gt; Task :spring-core:compileKotlin UP-TO-DATE &gt; Task :spring-core:compileJava UP-TO-DATE &gt; Task :spring-core:classes UP-TO-DATE &gt; Task :spring-core:inspectClassesForKotlinIC UP-TO-DATE &gt; Task :spring-core:compileTestFixturesKotlin UP-TO-DATE &gt; Task :spring-core:compileTestFixturesJava UP-TO-DATE &gt; Task :spring-core:testFixturesClasses UP-TO-DATE &gt; Task :spring-core:testFixturesJar UP-TO-DATE &gt; Task :spring-core:jar UP-TO-DATE &gt; Task :spring-beans:compileGroovy UP-TO-DATE &gt; Task :spring-beans:compileKotlin UP-TO-DATE &gt; Task :spring-beans:compileJava NO-SOURCE &gt; Task :spring-beans:classes UP-TO-DATE &gt; Task :spring-beans:inspectClassesForKotlinIC UP-TO-DATE &gt; Task :spring-beans:jar UP-TO-DATE &gt; Task :spring-beans:compileTestFixturesKotlin UP-TO-DATE &gt; Task :spring-beans:compileTestFixturesJava UP-TO-DATE &gt; Task :spring-beans:compileTestFixturesGroovy NO-SOURCE &gt; Task :spring-beans:testFixturesClasses UP-TO-DATE &gt; Task :spring-beans:testFixturesJar UP-TO-DATE &gt; Task :spring-beans:compileTestKotlin UP-TO-DATE &gt; Task :spring-beans:compileTestJava UP-TO-DATE &gt; Task :spring-beans:compileTestGroovy NO-SOURCE &gt; Task :spring-beans:testClasses UP-TO-DATE &gt; Task :spring-beans:test 四月 10, 2021 1:44:06 上午 org.junit.platform.launcher.core.EngineDiscoveryOrchestrator lambdalogTestDescriptorExclusionReasons7 信息: 0 containers and 4 tests were Method or class mismatch Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0. Use '--warning-mode all' to show the individual deprecation warnings. See https:docs.gradle.org6.8.3userguidecommand_line_interface.htmlsec:command_line_warnings BUILD SUCCESSFUL in 12s 28 actionable tasks: 1 executed, 27 up-to-date A build scan was not published as you have not authenticated with server 'ge.spring.io'. 1:44:07: Task execution finished ':spring-beans:test --tests &quot;org.springframework.beans.factory.annotation.AnnotationBeanWiringInfoResolverTests.testResolveWiringInfoWithAnInstanceOfANonAnnotatedClass&quot;'." />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617890873055" />
+    <option name="lastTrimTime" value="1618492415073" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
