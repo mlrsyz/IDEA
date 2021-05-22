@@ -6,6 +6,10 @@
           <option name="url" value="http://gitee.com" />
           <option name="userName" value="mlrsyz@vip.qq.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gogs.ondev.top:30443" />
+          <option name="userName" value="ymx" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
