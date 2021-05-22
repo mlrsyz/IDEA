@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Bi Consumer" />
       <item value="A constant holding the maximum value an {@code int} can have, 2&lt;sup&gt;31&lt;sup&gt;-1." />
       <item value="Linked Blocking Queue" />
       <item value="new Fixed Thread Pool" />
@@ -53,11 +54,10 @@
       <item value="Wiring Info" />
       <item value="Bean Wiring Info" />
       <item value="Must not be returning null for an @Configurable class instance even when autowiring is NO" />
-      <item value="Wireless Soap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
+        <entry key="CHINESE" value="102" />
         <entry key="ENGLISH" value="102" />
         <entry key="FRENCH" value="1" />
         <entry key="HEBREW" value="1" />
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618492415073" />
+    <option name="lastTrimTime" value="1621667938700" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
