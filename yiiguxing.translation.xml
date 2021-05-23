@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Auto Configure After" />
       <item value="Bi Consumer" />
       <item value="A constant holding the maximum value an {@code int} can have, 2&lt;sup&gt;31&lt;sup&gt;-1." />
       <item value="Linked Blocking Queue" />
@@ -53,12 +54,11 @@
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
       <item value="Wiring Info" />
       <item value="Bean Wiring Info" />
-      <item value="Must not be returning null for an @Configurable class instance even when autowiring is NO" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="ENGLISH" value="103" />
         <entry key="FRENCH" value="1" />
         <entry key="HEBREW" value="1" />
       </map>
