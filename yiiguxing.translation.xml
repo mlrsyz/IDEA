@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="get Default User Details Service" />
+      <item value="authentication Provider" />
+      <item value="ldap Authentication" />
+      <item value="user Details Service" />
+      <item value="in Memory Authentication" />
+      <item value="erase Credentials" />
+      <item value="authentication Event Publisher" />
+      <item value="parent Authentication Manager" />
       <item value="encoded Password" />
       <item value="raw Password" />
       <item value="Auto Configure After" />
@@ -46,19 +54,11 @@
       <item value="Create a new ClassPathXmlApplicationContext with the given parent, loading the definitions from the given XML files." />
       <item value="Configurable Listable Bean Factory" />
       <item value="spring.context.refresh" />
-      <item value="obtain Fresh Bean Factory" />
-      <item value="Load bean definitions into the given bean factory, typically through delegating to one or more bean definition readers." />
-      <item value="Environment" />
-      <item value="instrument" />
-      <item value="optional" />
-      <item value="compile" />
-      <item value="Expecting value to be true but was false" />
-      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="112" />
+        <entry key="ENGLISH" value="113" />
         <entry key="FRENCH" value="1" />
         <entry key="HEBREW" value="1" />
       </map>
