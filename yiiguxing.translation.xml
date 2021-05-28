@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Found multiple occurrences of org.json.JSONObject on the class path" />
+      <item value="Operand should contain 1 column(s)" />
       <item value="get Default User Details Service" />
       <item value="authentication Provider" />
       <item value="ldap Authentication" />
@@ -52,20 +54,18 @@
       <item value="BeanFactory not initialized or already closed - call 'refresh' before accessing beans via the ApplicationContext" />
       <item value="Execution failed for task ':spring-context:Test.main()'. &gt; Process 'command 'C:YmxFileProgram FilesJDKjdk-8.0_191binjava.exe'' finished with non-zero exit value 1" />
       <item value="Create a new ClassPathXmlApplicationContext with the given parent, loading the definitions from the given XML files." />
-      <item value="Configurable Listable Bean Factory" />
-      <item value="spring.context.refresh" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="116" />
         <entry key="FRENCH" value="1" />
         <entry key="HEBREW" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621667938700" />
+    <option name="lastTrimTime" value="1622205794994" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
