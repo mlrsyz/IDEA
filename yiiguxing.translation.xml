@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="30,000 milliseconds timeout on connection http-outgoing-7 [ACTIVE]" />
+      <item value="Failed to execute bulk" />
+      <item value="You may wish to exclude one of them to ensure predictable runtime behavior" />
+      <item value="Found multiple occurrences of org.json.JSONObject on the class path:" />
       <item value="Found multiple occurrences of org.json.JSONObject on the class path" />
       <item value="Operand should contain 1 column(s)" />
       <item value="get Default User Details Service" />
@@ -50,15 +54,11 @@
       <item value="Create a new {@code ClassPathResource} for {@code ClassLoader} usage. A leading slash will be removed, as the ClassLoader resource access methods will not accept it." />
       <item value="Nullable" />
       <item value="classpath" />
-      <item value="No qualifying bean of type 'test.Food' available" />
-      <item value="BeanFactory not initialized or already closed - call 'refresh' before accessing beans via the ApplicationContext" />
-      <item value="Execution failed for task ':spring-context:Test.main()'. &gt; Process 'command 'C:YmxFileProgram FilesJDKjdk-8.0_191binjava.exe'' finished with non-zero exit value 1" />
-      <item value="Create a new ClassPathXmlApplicationContext with the given parent, loading the definitions from the given XML files." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE" value="121" />
+        <entry key="ENGLISH" value="122" />
         <entry key="FRENCH" value="1" />
         <entry key="HEBREW" value="1" />
       </map>
