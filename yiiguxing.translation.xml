@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Security Context Repository" />
+      <item value="Security Context Repository Proxy" />
       <item value="The Tomcat connector configured to listen on port 28081 failed to start. The port may already be in use or the connector may be misconfigure" />
       <item value="Address already in use: bind" />
       <item value="is Assignable From" />
@@ -52,13 +54,11 @@
       <item value="Actually load bean definitions from the specified XML file." />
       <item value="XML bean definition resources currently being loaded" />
       <item value="IOException parsing XML document from" />
-      <item value="input Source" />
-      <item value="check your import definitions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="140" />
-        <entry key="ENGLISH" value="141" />
+        <entry key="CHINESE" value="144" />
+        <entry key="ENGLISH" value="145" />
         <entry key="FRENCH" value="2" />
         <entry key="HEBREW" value="1" />
       </map>
