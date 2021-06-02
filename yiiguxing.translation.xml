@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="main Authentication Checks" />
+      <item value="pre Authentication Check" />
+      <item value="Default Authentication Provider" />
+      <item value="Authentication Provider" />
+      <item value="attempt Authentication" />
       <item value="recovery" />
       <item value="Collect Username Password Token" />
       <item value="Only non-null SecurityContext instances are permitted" />
@@ -49,16 +54,11 @@
       <item value="Bean Name Aware" />
       <item value="ignore Dependency Interface" />
       <item value="cannot be opened because it does not exist" />
-      <item value="Detector" />
-      <item value="Only conditional converters may return null convertible types" />
-      <item value="Pointcut" />
-      <item value="entry Trace" />
-      <item value="delimiters" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="138" />
         <entry key="FRENCH" value="2" />
         <entry key="HEBREW" value="1" />
       </map>
