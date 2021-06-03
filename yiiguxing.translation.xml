@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Clever Security Jackson 2 Module" />
+      <item value="Security Context Mixin" />
       <item value="Security Context Repository" />
       <item value="Security Context Repository Proxy" />
       <item value="The Tomcat connector configured to listen on port 28081 failed to start. The port may already be in use or the connector may be misconfigure" />
@@ -52,13 +54,11 @@
       <item value="Specify the {@link NamespaceHandlerResolver} to use. &lt;p&gt;If none is specified, a default instance will be created through {@link createDefaultNamespaceHandlerResolver()}." />
       <item value="Set the validation mode to use. Defaults to {@link VALIDATION_AUTO}. &lt;p&gt;Note that this only activates or deactivates validation itself. If you are switching validation off for schema files, you might need to activate schema namespace support explicitly: see {@link setNamespaceAware}." />
       <item value="Actually load bean definitions from the specified XML file." />
-      <item value="XML bean definition resources currently being loaded" />
-      <item value="IOException parsing XML document from" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="144" />
-        <entry key="ENGLISH" value="145" />
+        <entry key="CHINESE" value="146" />
+        <entry key="ENGLISH" value="146" />
         <entry key="FRENCH" value="2" />
         <entry key="HEBREW" value="1" />
       </map>
