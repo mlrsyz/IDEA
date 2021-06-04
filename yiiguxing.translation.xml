@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Json Auto Detect" />
       <item value="include Field Names" />
       <item value="WRITE ONLY" />
       <item value="PROTECTED" />
@@ -53,12 +54,11 @@
       <item value="Allow the XML to be extensible by processing any custom element types first, before we start to process the bean definitions. This method is a natural extension point for any other custom pre-processing of the XML. &lt;p&gt;The default implementation is empty. Subclasses can override this method to convert custom elements into standard Spring bean definitions, for example. Implementors have access to the parser's bean definition reader and the underlying XML resource, through the corresponding accessors." />
       <item value="Register each bean definition within the given root {@code &lt;beans&gt;} element." />
       <item value="This implementation parses bean definitions according to the &quot;spring-beans&quot; XSD" />
-      <item value="instantiate Class" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="151" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="CHINESE" value="152" />
+        <entry key="ENGLISH" value="153" />
         <entry key="FRENCH" value="2" />
         <entry key="HEBREW" value="1" />
       </map>
