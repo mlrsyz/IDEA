@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="include Field Names" />
+      <item value="WRITE ONLY" />
+      <item value="PROTECTED" />
+      <item value="exclude" />
       <item value="Failed to execute CommandLineRunner" />
       <item value="Clever Security Jackson 2 Module" />
       <item value="Security Context Mixin" />
@@ -23,7 +27,6 @@
       <item value="encoded Password" />
       <item value="token Authentication Manager" />
       <item value="commence" />
-      <item value="PROTECTED" />
       <item value="credentials" />
       <item value="jaas" />
       <item value="authenticate" />
@@ -51,14 +54,11 @@
       <item value="Register each bean definition within the given root {@code &lt;beans&gt;} element." />
       <item value="This implementation parses bean definitions according to the &quot;spring-beans&quot; XSD" />
       <item value="instantiate Class" />
-      <item value="get Entity Resolver" />
-      <item value="Specify the {@link NamespaceHandlerResolver} to use. &lt;p&gt;If none is specified, a default instance will be created through {@link createDefaultNamespaceHandlerResolver()}." />
-      <item value="Set the validation mode to use. Defaults to {@link VALIDATION_AUTO}. &lt;p&gt;Note that this only activates or deactivates validation itself. If you are switching validation off for schema files, you might need to activate schema namespace support explicitly: see {@link setNamespaceAware}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="152" />
         <entry key="FRENCH" value="2" />
         <entry key="HEBREW" value="1" />
       </map>
