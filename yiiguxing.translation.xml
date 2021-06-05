@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Reconnected to redis.ondev.top:36379" />
       <item value="Column 'id' in field list is ambiguous" />
       <item value="HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@615ec0c6 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value." />
       <item value="Redis command timed out; nested exception is io.lettuce.core.RedisCommandTimeoutException: Command timed out after 10 second(s)" />
@@ -53,12 +54,11 @@
       <item value="parent Authentication Manager" />
       <item value="raw Password" />
       <item value="Auto Configure After" />
-      <item value="Bi Consumer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="159" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="CHINESE" value="160" />
+        <entry key="ENGLISH" value="161" />
         <entry key="FRENCH" value="3" />
         <entry key="HEBREW" value="1" />
       </map>
