@@ -4,6 +4,16 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Idle State Event" />
+      <item value="an {@link IdleStateEvent} whose state is {@link IdleStateREADER_IDLE} will be triggered when no read was performed for the specified period of time. Specify {@code 0} to disable." />
+      <item value="READER IDLE" />
+      <item value="SECONDS" />
+      <item value="an {@link IdleStateEvent} whose state is {@link IdleStateALL_IDLE} will be triggered when neither read nor write was performed for the specified period of time. Specify {@code 0} to disable." />
+      <item value="an {@link IdleStateEvent} whose state is {@link IdleStateWRITER_IDLE} will be triggered when no write was performed for the specified period of time. Specify {@code 0} to disable." />
+      <item value="@param readerIdleTimeSeconds an {@link IdleStateEvent} whose state is {@link IdleStateREADER_IDLE} will be triggered when no read was performed for the specified period of time. Specify {@code 0} to disable. @param writerIdleTimeSeconds an {@link IdleStateEvent} whose state is {@link IdleStateWRITER_IDLE} will be triggered when no write was performed for the specified period of time. Specify {@code 0} to disable. @param allIdleTimeSeconds an {@link IdleStateEvent} whose state is {@link IdleStateALL_IDLE} will be triggered when neither read nor write was performed for the specified period of time. Specify {@code 0} to disable." />
+      <item value="all Idle Time Seconds" />
+      <item value="reader Idle Time Seconds" />
+      <item value="writer Idle Time Seconds" />
       <item value="idle" />
       <item value="lifetime" />
       <item value="Reconnected to redis.ondev.top:36379" />
@@ -44,21 +54,11 @@
       <item value="Failed to execute bulk" />
       <item value="You may wish to exclude one of them to ensure predictable runtime behavior" />
       <item value="Found multiple occurrences of org.json.JSONObject on the class path:" />
-      <item value="Found multiple occurrences of org.json.JSONObject on the class path" />
-      <item value="Operand should contain 1 column(s)" />
-      <item value="get Default User Details Service" />
-      <item value="authentication Provider" />
-      <item value="ldap Authentication" />
-      <item value="user Details Service" />
-      <item value="in Memory Authentication" />
-      <item value="erase Credentials" />
-      <item value="authentication Event Publisher" />
-      <item value="parent Authentication Manager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="162" />
-        <entry key="ENGLISH" value="163" />
+        <entry key="CHINESE" value="178" />
+        <entry key="ENGLISH" value="179" />
         <entry key="FRENCH" value="3" />
         <entry key="HEBREW" value="1" />
       </map>
