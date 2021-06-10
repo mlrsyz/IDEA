@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="includes" />
+      <item value="filtering" />
+      <item value="excludes" />
+      <item value="profiles" />
       <item value="min Idle" />
       <item value="Possibly consider using a shorter maxLifetime value." />
       <item value="leakDetectionThreshold is less than 2000ms or more than maxLifetime" />
@@ -50,15 +54,11 @@
       <item value="Authentication Provider" />
       <item value="attempt Authentication" />
       <item value="recovery" />
-      <item value="Collect Username Password Token" />
-      <item value="Only non-null SecurityContext instances are permitted" />
-      <item value="encoded Password" />
-      <item value="token Authentication Manager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="188" />
-        <entry key="ENGLISH" value="188" />
+        <entry key="CHINESE" value="192" />
+        <entry key="ENGLISH" value="193" />
         <entry key="FRENCH" value="3" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="HEBREW" value="1" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622640083320" />
+    <option name="lastTrimTime" value="1623338045824" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
