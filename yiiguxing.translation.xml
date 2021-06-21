@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="scope" />
       <item value="Process terminated" />
       <item value="Failed to load property source from location 'classpath:bootstrap.yml'" />
       <item value="The System property name of Standalone mode" />
@@ -53,12 +54,11 @@
       <item value="register Module" />
       <item value="Json Auto Detect" />
       <item value="include Field Names" />
-      <item value="WRITE ONLY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="209" />
-        <entry key="ENGLISH" value="210" />
+        <entry key="CHINESE" value="210" />
+        <entry key="ENGLISH" value="211" />
         <entry key="FRENCH" value="3" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="HEBREW" value="1" />
