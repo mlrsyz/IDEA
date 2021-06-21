@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Process terminated" />
       <item value="Failed to load property source from location 'classpath:bootstrap.yml'" />
       <item value="The System property name of Standalone mode" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the serve" />
@@ -53,12 +54,11 @@
       <item value="Json Auto Detect" />
       <item value="include Field Names" />
       <item value="WRITE ONLY" />
-      <item value="PROTECTED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="208" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="CHINESE" value="209" />
+        <entry key="ENGLISH" value="210" />
         <entry key="FRENCH" value="3" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="HEBREW" value="1" />
