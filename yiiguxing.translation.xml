@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Unable to find property 'context-path' on class: com.example.service.DynamicRouteServiceImplByNacosservlet" />
+      <item value="Class org.yaml.snakeyaml.introspector.MethodProperty can not access a member of class com.example.service.DynamicRouteServiceImplByNacosserver with modifiers &quot;public&quot;" />
+      <item value="expect ':' at 0, actual =" />
+      <item value="Cannot create property=server for JavaBean=DynamicRouteServiceImplByNacos.GatewayRoutes(server=null, spring=null)" />
+      <item value="java.util.LinkedHashMap cannot be cast to com.example.service.DynamicRouteServiceImplByNacosGatewayRoutes" />
+      <item value="Unable to find property 'server' on class: com.example.service.DynamicRouteServiceImplByNacosGatewayRoutes" />
+      <item value="the class of the instance to be created" />
       <item value="The following profiles are active: dev" />
       <item value="is Multi Instance:false" />
       <item value="Ignore the empty nacos configuration and get it based on dataId[consumer.yaml] &amp; group[DEFAULT_GROUP]" />
@@ -47,18 +54,11 @@
       <item value="all Idle Time Seconds" />
       <item value="reader Idle Time Seconds" />
       <item value="writer Idle Time Seconds" />
-      <item value="idle" />
-      <item value="Reconnected to redis.ondev.top:36379" />
-      <item value="Column 'id' in field list is ambiguous" />
-      <item value="HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@615ec0c6 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value." />
-      <item value="Redis command timed out; nested exception is io.lettuce.core.RedisCommandTimeoutException: Command timed out after 10 second(s)" />
-      <item value="pre Authentication Check" />
-      <item value="add Interceptors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="214" />
-        <entry key="ENGLISH" value="215" />
+        <entry key="CHINESE" value="221" />
+        <entry key="ENGLISH" value="222" />
         <entry key="FRENCH" value="3" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="HEBREW" value="1" />
