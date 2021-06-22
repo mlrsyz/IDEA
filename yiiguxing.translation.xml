@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="dynamic Route By Nacos Listener" />
       <item value="receive Config Info" />
       <item value="Could not resolve placeholder 'spring.cloud.gateway.routes' in value &quot;{spring.cloud.gateway.routes}&quot;" />
       <item value="Parameter 0 of method modifyRequestBodyGatewayFilterFactory in org.springframework.cloud.gateway.config.GatewayAutoConfiguration required a bean of type 'org.springframework.http.codec.ServerCodecConfigurer' that could not be found." />
@@ -53,12 +54,11 @@
       <item value="an {@link IdleStateEvent} whose state is {@link IdleStateREADER_IDLE} will be triggered when no read was performed for the specified period of time. Specify {@code 0} to disable." />
       <item value="READER IDLE" />
       <item value="SECONDS" />
-      <item value="an {@link IdleStateEvent} whose state is {@link IdleStateALL_IDLE} will be triggered when neither read nor write was performed for the specified period of time. Specify {@code 0} to disable." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="228" />
-        <entry key="ENGLISH" value="229" />
+        <entry key="CHINESE" value="229" />
+        <entry key="ENGLISH" value="230" />
         <entry key="FRENCH" value="3" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="HEBREW" value="1" />
