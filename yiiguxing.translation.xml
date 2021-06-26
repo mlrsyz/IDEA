@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="cnt" />
+      <item value="tenant" />
+      <item value="fixed" />
+      <item value="Route Predicate Factory" />
+      <item value="No URLs will be polled as dynamic configuration sources." />
+      <item value="- The following profiles are active: dev" />
+      <item value="Failed to load property source from 'file:C:UsersymxDesktopmygitnacos-demogatewaytargetclassesbootstrap.yml'" />
       <item value="dynamic Route By Nacos Listener" />
       <item value="receive Config Info" />
       <item value="Could not resolve placeholder 'spring.cloud.gateway.routes' in value &quot;{spring.cloud.gateway.routes}&quot;" />
@@ -47,18 +54,11 @@
       <item value="pool Name" />
       <item value="maxLifetime is less than 30000ms, setting to default {}ms" />
       <item value="lifetime" />
-      <item value="No operations allowed after connection closed." />
-      <item value="Could not open JDBC Connection for transaction; nested exception is java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30049ms." />
-      <item value=": Could not open JDBC Connection for transaction; nested exception is java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30049ms." />
-      <item value="Idle State Event" />
-      <item value="an {@link IdleStateEvent} whose state is {@link IdleStateREADER_IDLE} will be triggered when no read was performed for the specified period of time. Specify {@code 0} to disable." />
-      <item value="READER IDLE" />
-      <item value="SECONDS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="229" />
-        <entry key="ENGLISH" value="230" />
+        <entry key="CHINESE" value="237" />
+        <entry key="ENGLISH" value="238" />
         <entry key="FRENCH" value="3" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="HEBREW" value="1" />
