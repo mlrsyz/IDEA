@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="process" />
+      <item value="Connection reset" />
       <item value="cnt" />
       <item value="tenant" />
       <item value="fixed" />
@@ -52,13 +54,11 @@
       <item value="Possibly consider using a shorter maxLifetime value." />
       <item value="leakDetectionThreshold is less than 2000ms or more than maxLifetime" />
       <item value="pool Name" />
-      <item value="maxLifetime is less than 30000ms, setting to default {}ms" />
-      <item value="lifetime" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="237" />
-        <entry key="ENGLISH" value="238" />
+        <entry key="CHINESE" value="239" />
+        <entry key="ENGLISH" value="240" />
         <entry key="FRENCH" value="3" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="HEBREW" value="1" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624285871995" />
+    <option name="lastTrimTime" value="1624983815049" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
