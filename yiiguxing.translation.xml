@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Script Engine Instance Status" />
       <item value="accept" />
       <item value="process" />
       <item value="Connection reset" />
@@ -53,12 +54,11 @@
       <item value="profiles" />
       <item value="min Idle" />
       <item value="Possibly consider using a shorter maxLifetime value." />
-      <item value="leakDetectionThreshold is less than 2000ms or more than maxLifetime" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="240" />
-        <entry key="ENGLISH" value="241" />
+        <entry key="CHINESE" value="241" />
+        <entry key="ENGLISH" value="242" />
         <entry key="FRENCH" value="3" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="HEBREW" value="1" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624983815049" />
+    <option name="lastTrimTime" value="1626189454029" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
