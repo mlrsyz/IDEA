@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Unexpected character ('&lt;' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')" />
+      <item value="org.graalvm.polyglot.PolyglotException: TypeError: invokeMember (getSchemaName) on org.clever.hinny.graal.mvc.http.HttpContext@79e641a failed due to: Unknown identifier: getSchemaName" />
+      <item value="class org.springframework.web.method.HandlerMethod" />
+      <item value="mapper" />
       <item value="Script Engine Instance Status" />
       <item value="accept" />
       <item value="process" />
@@ -50,15 +54,11 @@
       <item value="&quot;Executing bulk [{}] with {} requests" />
       <item value="includes" />
       <item value="filtering" />
-      <item value="excludes" />
-      <item value="profiles" />
-      <item value="min Idle" />
-      <item value="Possibly consider using a shorter maxLifetime value." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="241" />
-        <entry key="ENGLISH" value="242" />
+        <entry key="CHINESE" value="245" />
+        <entry key="ENGLISH" value="246" />
         <entry key="FRENCH" value="3" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="HEBREW" value="1" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626189454029" />
+    <option name="lastTrimTime" value="1627485818415" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
