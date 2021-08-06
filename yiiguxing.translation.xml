@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="excludes" />
+      <item value="include" />
+      <item value="filtering" />
+      <item value="includes" />
       <item value="Access Controller" />
       <item value="do Privileged" />
       <item value="get Class Loader 0" />
@@ -50,15 +54,11 @@
       <item value="The System property name of Standalone mode" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the serve" />
       <item value="attempt Authentication" />
-      <item value="Authentication Event Publisher" />
-      <item value="undertow" />
-      <item value="authenticate" />
-      <item value="Leave this request open until a refresh has made the contents of this request visible to search. This refresh policy is compatible with high indexing and search throughput but it causes the request to wait to reply until a refresh occurs." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="252" />
-        <entry key="ENGLISH" value="253" />
+        <entry key="CHINESE" value="257" />
+        <entry key="ENGLISH" value="258" />
         <entry key="FRENCH" value="5" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="HEBREW" value="1" />
