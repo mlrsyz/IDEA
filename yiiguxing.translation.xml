@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="get Class Loader 0" />
       <item value="Decrypt 3 DES" />
       <item value="Encrypt" />
       <item value="Is Null Or White Space" />
@@ -53,12 +54,11 @@
       <item value="Leave this request open until a refresh has made the contents of this request visible to search. This refresh policy is compatible with high indexing and search throughput but it causes the request to wait to reply until a refresh occurs." />
       <item value="Don't refresh after this request. The default." />
       <item value="Force a refresh as part of this request. This refresh policy does not scale for high indexing or search throughput but is useful to present a consistent view to for indices with very low traffic. And it is wonderful for tests!" />
-      <item value="Adds either a delete or an index request." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="250" />
-        <entry key="ENGLISH" value="250" />
+        <entry key="ENGLISH" value="251" />
         <entry key="FRENCH" value="5" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="HEBREW" value="1" />
