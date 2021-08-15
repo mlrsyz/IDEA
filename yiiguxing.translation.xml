@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Fixed Interval Trigger" />
+      <item value="is Cancelled" />
+      <item value="is Done" />
+      <item value="compute If Absent" />
+      <item value="add Triggering" />
+      <item value="trigger Job Exec" />
       <item value="has Permit" />
       <item value="NEXT TRIGGER N" />
       <item value="MILLISECONDS" />
@@ -48,17 +54,11 @@
       <item value="Could not resolve placeholder 'spring.cloud.gateway.routes' in value &quot;{spring.cloud.gateway.routes}&quot;" />
       <item value="Parameter 0 of method modifyRequestBodyGatewayFilterFactory in org.springframework.cloud.gateway.config.GatewayAutoConfiguration required a bean of type 'org.springframework.http.codec.ServerCodecConfigurer' that could not be found." />
       <item value="Consider defining a bean of type 'org.springframework.http.codec.ServerCodecConfigurer' in your configuration." />
-      <item value="No suitable constructor with 2 arguments found for class com.example.service.DynamicRouteServiceImplByNacosroutes" />
-      <item value="Unable to find property 'context-path' on class: com.example.service.DynamicRouteServiceImplByNacosservlet" />
-      <item value="Class org.yaml.snakeyaml.introspector.MethodProperty can not access a member of class com.example.service.DynamicRouteServiceImplByNacosserver with modifiers &quot;public&quot;" />
-      <item value="expect ':' at 0, actual =" />
-      <item value="Cannot create property=server for JavaBean=DynamicRouteServiceImplByNacos.GatewayRoutes(server=null, spring=null)" />
-      <item value="java.util.LinkedHashMap cannot be cast to com.example.service.DynamicRouteServiceImplByNacosGatewayRoutes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="269" />
-        <entry key="ENGLISH" value="270" />
+        <entry key="CHINESE" value="275" />
+        <entry key="ENGLISH" value="276" />
         <entry key="FRENCH" value="5" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="HEBREW" value="1" />
