@@ -4,6 +4,16 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="has Permit" />
+      <item value="NEXT TRIGGER N" />
+      <item value="MILLISECONDS" />
+      <item value="try Acquire" />
+      <item value="schedule At Fixed Rate" />
+      <item value="begin Read Only TX" />
+      <item value="calc Next Fire Time" />
+      <item value="register Scheduler Daemon" />
+      <item value="period" />
+      <item value="Daemon Executor" />
       <item value="resource" />
       <item value="Resources" />
       <item value="excludes" />
@@ -44,21 +54,11 @@
       <item value="expect ':' at 0, actual =" />
       <item value="Cannot create property=server for JavaBean=DynamicRouteServiceImplByNacos.GatewayRoutes(server=null, spring=null)" />
       <item value="java.util.LinkedHashMap cannot be cast to com.example.service.DynamicRouteServiceImplByNacosGatewayRoutes" />
-      <item value="Unable to find property 'server' on class: com.example.service.DynamicRouteServiceImplByNacosGatewayRoutes" />
-      <item value="the class of the instance to be created" />
-      <item value="The following profiles are active: dev" />
-      <item value="is Multi Instance:false" />
-      <item value="Ignore the empty nacos configuration and get it based on dataId[consumer.yaml] &amp; group[DEFAULT_GROUP]" />
-      <item value="Ignore the empty nacos configuration and get it based on dataId[consumer] &amp; group[DEFAULT_GROUP]" />
-      <item value="scope" />
-      <item value="Process terminated" />
-      <item value="Failed to load property source from location 'classpath:bootstrap.yml'" />
-      <item value="The System property name of Standalone mode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="259" />
-        <entry key="ENGLISH" value="260" />
+        <entry key="CHINESE" value="269" />
+        <entry key="ENGLISH" value="270" />
         <entry key="FRENCH" value="5" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="HEBREW" value="1" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627919499088" />
+    <option name="lastTrimTime" value="1629037143899" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
