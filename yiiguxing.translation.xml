@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="This connection is using TLSv1.1 which is now deprecated and will be removed in a future release of ConnectorJ." />
+      <item value="is Auto Commit" />
+      <item value="Cron Trigger" />
+      <item value="Wed Aug 25 20:33:29 CST 2021 WARN: This connection is using TLSv1.1 which is now deprecated and will be removed in a future release of ConnectorJ." />
       <item value="Can't create database 'clever_task'; database exists" />
       <item value="get Runtime" />
       <item value="add Shutdown Hook" />
@@ -50,15 +54,11 @@
       <item value="Encrypt" />
       <item value="Is Null Or White Space" />
       <item value="get Remote User" />
-      <item value="get Auth Type" />
-      <item value="Unexpected character ('&lt;' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')" />
-      <item value="org.graalvm.polyglot.PolyglotException: TypeError: invokeMember (getSchemaName) on org.clever.hinny.graal.mvc.http.HttpContext@79e641a failed due to: Unknown identifier: getSchemaName" />
-      <item value="class org.springframework.web.method.HandlerMethod" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="293" />
-        <entry key="ENGLISH" value="294" />
+        <entry key="CHINESE" value="297" />
+        <entry key="ENGLISH" value="298" />
         <entry key="FRENCH" value="5" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="HEBREW" value="1" />
