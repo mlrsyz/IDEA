@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Can't create database 'clever_task'; database exists" />
       <item value="get Runtime" />
       <item value="add Shutdown Hook" />
       <item value="Thread Pool Executor" />
@@ -53,12 +54,11 @@
       <item value="Unexpected character ('&lt;' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')" />
       <item value="org.graalvm.polyglot.PolyglotException: TypeError: invokeMember (getSchemaName) on org.clever.hinny.graal.mvc.http.HttpContext@79e641a failed due to: Unknown identifier: getSchemaName" />
       <item value="class org.springframework.web.method.HandlerMethod" />
-      <item value="mapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="292" />
-        <entry key="ENGLISH" value="293" />
+        <entry key="CHINESE" value="293" />
+        <entry key="ENGLISH" value="294" />
         <entry key="FRENCH" value="5" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="HEBREW" value="1" />
