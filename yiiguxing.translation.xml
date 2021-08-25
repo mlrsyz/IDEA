@@ -4,13 +4,27 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="Shutdown" />
+      <item value="add Shutdown Hook" />
+      <item value="the updated value" />
+      <item value="Atomically increments by one the current value." />
+      <item value="increment And Get" />
+      <item value="Returns the greater of two {@code int} values. That is, the result is the argument closer to the value of {@link IntegerMAX_VALUE}. If the arguments have the same value, the result is that same value." />
+      <item value="increment And Get Job Run Count" />
+      <item value="job Reentry Count" />
+      <item value="get And Increment Job Reentry Count" />
+      <item value="compute If Absent" />
+      <item value="get Current Scheduler" />
+      <item value="need Run Job" />
+      <item value="get Job Reentry Count" />
+      <item value="Returns {@code true} if this task completed. Completion may be due to normal termination, an exception, or cancellation -- in all of these cases, this method will return" />
+      <item value="set Fire Count" />
       <item value="This connection is using TLSv1.1 which is now deprecated and will be removed in a future release of ConnectorJ." />
       <item value="is Auto Commit" />
       <item value="Cron Trigger" />
       <item value="Wed Aug 25 20:33:29 CST 2021 WARN: This connection is using TLSv1.1 which is now deprecated and will be removed in a future release of ConnectorJ." />
       <item value="Can't create database 'clever_task'; database exists" />
       <item value="get Runtime" />
-      <item value="add Shutdown Hook" />
       <item value="Thread Pool Executor" />
       <item value="Scheduled Executor Service" />
       <item value="on Start Run" />
@@ -28,7 +42,6 @@
       <item value="Fixed Interval Trigger" />
       <item value="is Cancelled" />
       <item value="is Done" />
-      <item value="compute If Absent" />
       <item value="add Triggering" />
       <item value="trigger Job Exec" />
       <item value="has Permit" />
@@ -41,24 +54,11 @@
       <item value="register Scheduler Daemon" />
       <item value="period" />
       <item value="Daemon Executor" />
-      <item value="resource" />
-      <item value="Resources" />
-      <item value="excludes" />
-      <item value="include" />
-      <item value="filtering" />
-      <item value="includes" />
-      <item value="Access Controller" />
-      <item value="do Privileged" />
-      <item value="get Class Loader 0" />
-      <item value="Decrypt 3 DES" />
-      <item value="Encrypt" />
-      <item value="Is Null Or White Space" />
-      <item value="get Remote User" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="297" />
-        <entry key="ENGLISH" value="298" />
+        <entry key="CHINESE" value="317" />
+        <entry key="ENGLISH" value="318" />
         <entry key="FRENCH" value="5" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="HEBREW" value="1" />
